@@ -1,0 +1,32 @@
+// Para versionado del proyect
+numero módulo - número versión - modulo - nombre lo que se va a hacer 
+
+ejemplo:
+2-factura
+2-1-factura-agregar-atributos
+
+// Lista de modulos y participantes(letra abrevia a quien)
+{
+	B: Alejandro,
+	G: Johnny,
+	P: Adrián
+}
+
+Módulos: 
+1-
+2-
+3-
+4-
+
+// comandos más utilizados
+Agrega todos los archivos para el stage:		git add . 
+Crea la nueva revisón al commit:			git commit -m "aqui va la descripcion de lo que se hizo"
+Envía los cambios del repositorio local al remoto: 	git push
+Enlista todas las ramas en el repositorio LOCAL:	git branch
+Crea una nueva rama:					git branch <nombre-nueva-rama>
+Borrar la rama del repositorio LOCAL:			git branch -d <br­anc­h-n­ame>
+Navegar entre ramas:					git checkout <nombre-rama>
+
+// links de tutoriales
+-Hacer MERGE 
+https://www.youtube.com/watch?v=BaY7FvCIH18   
