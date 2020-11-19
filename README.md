@@ -25,17 +25,16 @@ Módulos: <br />
 ---------
 
 # comandos más utilizados de Git
-Agrega todos los archivos para el stage:	<br />	
-<ul>
-<li>git add . </li><br />
-Crea la nueva revisón al commit:			git commit -m "aqui va la descripcion de lo que se hizo"<br />
-Envía los cambios del repositorio local al remoto: 	git push<br />
-Enlista todas las ramas en el repositorio LOCAL:	git branch<br />
-Crea una nueva rama:					git branch <nombre-nueva-rama><br />
-Borrar la rama del repositorio LOCAL:			git branch -d <br­anc­h-n­ame><br />
-Navegar entre ramas:					git checkout <nombre-rama><br />
-Renombrar la branch (actual):				git branch -m <nuevo-nombre><br />
-</ul>
+	<br />	
+-   Agrega todos los archivos para el stage: git add . </li><br />
+-   Crea la nueva revisón al commit:			git commit -m "aqui va la descripcion de lo que se hizo"<br />
+-   Envía los cambios del repositorio local al remoto: 	git push<br />
+-   Enlista todas las ramas en el repositorio LOCAL:	git branch<br />
+-   Crea una nueva rama:					git branch <nombre-nueva-rama><br />
+-   Borrar la rama del repositorio LOCAL:			git branch -d <br­anc­h-n­ame><br />
+-   Navegar entre ramas:					git checkout <nombre-rama><br />
+-   Renombrar la branch (actual):				git branch -m <nuevo-nombre><br />
+
 <br />
 # links de tutoriales
 -Hacer MERGE 
