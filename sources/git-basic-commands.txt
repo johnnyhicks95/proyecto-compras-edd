@@ -12,11 +12,11 @@ ejemplo:
 	P: Adrián
 }
 
-Módulos: 
-1-
-2-
-3-
-4-
+Módulos: - no se debe hacer merge directo al master, primero es a 1-master-alpha para probar todo los modulos.
+1-master-alpha
+2-modulo-factura-b
+3-modulo-dependiente-j
+4- etc ...
 
 // comandos más utilizados
 Agrega todos los archivos para el stage:		git add . 
@@ -26,6 +26,7 @@ Enlista todas las ramas en el repositorio LOCAL:	git branch
 Crea una nueva rama:					git branch <nombre-nueva-rama>
 Borrar la rama del repositorio LOCAL:			git branch -d <br­anc­h-n­ame>
 Navegar entre ramas:					git checkout <nombre-rama>
+Renombrar la branch (actual):				git branch -m <nuevo-nombre>
 
 // links de tutoriales
 -Hacer MERGE 
