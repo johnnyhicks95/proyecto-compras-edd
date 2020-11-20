@@ -34,8 +34,8 @@ Módulos: <br />
 -   Borrar la rama del repositorio LOCAL:			git branch -d <br­anc­h-n­ame><br />
 -   Navegar entre ramas:					git checkout <nombre-rama><br />
 -   Renombrar la branch (actual):				git branch -m <nuevo-nombre><br />
-
 <br />
+
 # links de tutoriales
 -Hacer MERGE 
 https://www.youtube.com/watch?v=BaY7FvCIH18  
